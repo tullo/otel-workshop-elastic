@@ -5,7 +5,7 @@ go 1.19
 // replace github.com/tullo/otel-workshop => /home/anda/code/otel/workshop
 
 require (
-	github.com/tullo/otel-workshop v0.4.2
+	github.com/tullo/otel-workshop v1.0.1
 	go.opentelemetry.io/otel v1.12.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.12.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.12.0
