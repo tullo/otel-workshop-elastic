@@ -2,7 +2,7 @@ module github.com/tullo/otel-workshop-elastic
 
 go 1.25.0
 
-toolchain go1.26.4
+toolchain go1.26.5
 
 // replace github.com/tullo/otel-workshop => /home/anda/code/otel/workshop
 
